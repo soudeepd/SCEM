@@ -4,7 +4,7 @@ R scripts to perform the Splitting-Coalescence-Estimation Method to model birth 
 
 ## Authors
 
-[Hannah Chazin](http://columbia.academia.edu/HannahChazin), [Soudeep Deb](http://soudeepd.github.io/), [Joshua Falk](http://home.uchicago.edu/~jsfalk/), Arun Srinivasan
+[Hannah Chazin](http://www.hannah-chazin.com/), [Soudeep Deb](http://soudeepd.github.io/), [Joshua Falk](http://home.uchicago.edu/~jsfalk/), Arun Srinivasan
 
 ## Methods
 
@@ -14,12 +14,12 @@ The first method estimates input parameters for use with a previously-developed 
 
 The second method we propose is a new idea that uses a nonparametric clustering procedure to group individuals with similar time series data and estimate birth seasonality based on the clusters. This method is more efficient across different scenarios, especially when less of the tooth row is preserved. The new approach offers a high level of statistical rigor and flexibility in dealing with the time series data produced through intra-individual sampling in isotopic analysis. One can use the function `SCEM.R` to implement this method. 
 
-Example of implementing the above methods for real data can be found in `Usage-Example.R`. Other functions in this repository are used internally in the above-mentioned functions. 
+Example of implementing the above methods for our data can be found in `Usage-Example.R`. Other functions in this repository are used internally in the above-mentioned functions. 
 
 
 ## Contact
 
-For any inquiries or questions related to this, please open an issue in this repository. You can also contact us at [hc2986@columbia.edu](hc2986@columbia.edu) or [sdeb@uchicago.edu](sdeb@uchicago.edu).
+For any inquiries or questions related to this, please open an issue in this repository. You can also contact us at [h.chazin@columbia.edu](h.chazin@columbia.edu) or [sdeb@uchicago.edu](sdeb@uchicago.edu).
 
 ## Reference
 
