@@ -20,3 +20,7 @@ Example of implementing the above methods for real data can be found in `Usage-E
 ## Contact
 
 For any inquiries or questions related to this, please open an issue in this repository. You can also contact us at [hc2986@columbia.edu](hc2986@columbia.edu) or [sdeb@uchicago.edu](sdeb@uchicago.edu).
+
+## Reference
+
+Tornero, C., Bălăşescu, A., Ughetto-Monfrin, J., Voinea, V., Balasse, M., 2013. Seasonality and season of birth in early Eneolithic sheep from Cheia (Romania): methodological advances and implications for animal economy. Journal of Archaeological Science 40, 4039–4055. https://doi.org/10.1016/j.jas.2013.05.013
