@@ -5,7 +5,7 @@
 # Set the working directory 
 
 # Install the github package
-# devtools::install_github("soudeepd/SCEM") # not yet up in Github
+# devtools::install_github("soudeepd/SCEM") # not yet exported as a package
 
 #-------------------------------------------------------------
 # Read all the data files
