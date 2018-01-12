@@ -14,7 +14,7 @@ The first method estimates input parameters for use with a previously-developed 
 
 The second method we propose is a new idea that uses a nonparametric clustering procedure to group individuals with similar time series data and estimate birth seasonality based on the clusters. This method is more efficient across different scenarios, especially when less of the tooth row is preserved. The new approach offers a high level of statistical rigor and flexibility in dealing with the time series data produced through intra-individual sampling in isotopic analysis. One can use the function `SCEM.R` to implement this method. 
 
-Example of implementing the above methods for our data can be found in `Usage-Example.R`. Other functions in this repository are used internally in the above-mentioned functions. 
+Example of implementing the above methods for our data (provided as `armenia-data.csv`) can be found in `Usage-Example.R`. Other functions in this repository are used internally in the above-mentioned functions. 
 
 
 ## Contact
