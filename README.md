@@ -1,6 +1,6 @@
 # SCEM
 
-R scripts to perform the Splitting-Coalescence-Estimation Method to model birth seasonality in studies of herd animals.
+R scripts to perform the Splitting-Coalescence-Estimation Method (cf. Chazin et al., 2018) to model birth seasonality in studies of herd animals.
 
 ## Authors
 
@@ -23,4 +23,7 @@ For any inquiries or questions related to this, please open an issue in this rep
 
 ## Reference
 
+Chazin, H., Deb, S., Falk, J., and Srinivasan, A. (2018) New Statistical Approaches to Intra‐individual Isotopic Analysis and Modelling of Birth Seasonality in Studies of Herd Animals. Archaeometry, https://doi.org/10.1111/arcm.12432. 
+
 Tornero, C., Bălăşescu, A., Ughetto-Monfrin, J., Voinea, V., Balasse, M., 2013. Seasonality and season of birth in early Eneolithic sheep from Cheia (Romania): methodological advances and implications for animal economy. Journal of Archaeological Science 40, 4039–4055. https://doi.org/10.1016/j.jas.2013.05.013
+
